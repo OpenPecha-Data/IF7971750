@@ -5,36 +5,42 @@ source_metadata:
   title: འབྲུག་གི་ཁྲིམས་གཞུང་།
   author: ''
   volumes:
-    d5bcbc2a78014786884a7e4cf66a90a2:
+    1fbaec7c969c40b29a76fce42024fd53:
       image_group_id: I1KG15474
-      title: ''
+      title: Volume 1 of 'brug gi khrims gzhung /
       volume_number: 1
       total_pages: 192
-    833d435d2ce64f45b7a8d302bf4f2827:
+      base_file: v001.txt
+    09dad7a036df4b9cb0a737df99f41850:
       image_group_id: I1KG15475
-      title: ''
+      title: Volume 2 of 'brug gi khrims gzhung /
       volume_number: 2
       total_pages: 142
-    f5b620377e5d408abe27bec96e2a3a99:
+      base_file: v002.txt
+    ff360eaa6f3349f78f9fa7b31aeafc77:
       image_group_id: I1KG15476
-      title: ''
+      title: Volume 3 of 'brug gi khrims gzhung /
       volume_number: 3
       total_pages: 114
-    98042bf1d35c4408a7967ebaecd63231:
+      base_file: v003.txt
+    7eb618a7c59844038fddbe17cfbb32ac:
       image_group_id: I1KG15477
-      title: ''
+      title: Volume 4 of 'brug gi khrims gzhung /
       volume_number: 4
       total_pages: 134
-    c37a24e7e5204229bdc1320d0c1d49f1:
+      base_file: v004.txt
+    5ecc8bbf4fe6432fb251a5827ffa8394:
       image_group_id: I1KG15478
-      title: ''
+      title: Volume 5 of 'brug gi khrims gzhung /
       volume_number: 5
       total_pages: 160
-    1878a09e7c3646ed96ea4025ec92abe9:
+      base_file: v005.txt
+    754242c0bf9c413b89d61ee257aa05f0:
       image_group_id: I1KG15479
-      title: ''
+      title: Volume 6 of 'brug gi khrims gzhung /
       volume_number: 6
       total_pages: 108
+      base_file: v006.txt
 ebook_metadata:
   title: འབྲུག་གི་ཁྲིམས་གཞུང་།
   author: ''
