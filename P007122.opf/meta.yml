@@ -1,5 +1,7 @@
 id: P007122
 initial_creation_type: ocr
+created_at: 31/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG15463
   title: འབྲུག་གི་ཁྲིམས་གཞུང་།
@@ -41,10 +43,3 @@ source_metadata:
       volume_number: 6
       total_pages: 108
       base_file: v006.txt
-ebook_metadata:
-  title: འབྲུག་གི་ཁྲིམས་གཞུང་།
-  author: ''
-  sku: P007122
-  cover: cover.jpg
-  layers:
-  - pagination
